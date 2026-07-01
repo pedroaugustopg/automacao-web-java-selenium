@@ -6,7 +6,7 @@ Este projeto demonstra uma automação web utilizando **Java** e **Selenium WebD
 
 A aplicação abre o navegador Google Chrome, acessa o portal **GE Globo**, realiza diversas validações na página e encerra o navegador automaticamente.
 
-O objetivo do projeto é demonstrar conceitos de automação de testes web, servindo como material de estudo e portfólio para QA Automation.
+O objetivo do projeto é demonstrar conceitos de automação de testes web, servindo como material de estudo e portfólio para QA.
 
 ## 🚀 Funcionalidades
 
@@ -113,4 +113,4 @@ Main.java
 ## 👨‍💻 Objetivo
 
 Este projeto foi desenvolvido com fins de estudo para aprimorar conhecimentos em automação de testes web utilizando Java e Selenium, aplicando conceitos de organização 
-de código e boas práticas amplamente utilizadas em projetos de QA Automation.
+de código e boas práticas amplamente utilizadas em projetos de QA.
