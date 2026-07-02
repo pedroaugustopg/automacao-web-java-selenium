@@ -6,7 +6,6 @@ public class Main {
 
         AutomacaoGE automation = new AutomacaoGE();
         automation.executarTeste();
-
     }
 }
 
